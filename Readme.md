@@ -1,6 +1,9 @@
 # API Tienda – API REST con Spring Boot (Productos y Usuarios)
 
 API REST desarrollada con **Spring Boot** que expone las operaciones CRUD (crear, consultar, actualizar y eliminar) para dos módulos: **Productos** y **Usuarios**. El proyecto sigue una arquitectura por capas (controlador, servicio, repositorio y modelo), usa **Lombok** para eliminar código repetitivo, valida los datos de entrada y devuelve los errores en formato JSON.
+Profe en caso de necesitar un poco de claridad sucede que este repositorio tiene todos los endpoints y al abrilo en intellij idea le va a salir como api, luego dento esta otro folder tambien llamado api el cual tienen un src donde esta java y dentro de ello esta todo el codigo fuente del proyecto.
+<img width="562" height="41" alt="image" src="https://github.com/user-attachments/assets/3e483831-3642-4f97-9177-8596817be8cf" />
+
 
 Reglas de negocio del módulo de Usuarios:
 
